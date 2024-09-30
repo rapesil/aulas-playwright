@@ -1,0 +1,14 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "Projeto de teste para estudo de playwright",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["playwright", "test"],
+  "author": "Rafael Peixoto",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "@types/node": "^22.6.1"
+  }
+}
